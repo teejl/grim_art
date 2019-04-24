@@ -1,0 +1,31 @@
+{% extends 'layout.html' %}
+{% block body %}
+	<input type="submit" name="submit_button" value="Button1">
+	<p></p>
+	<input type="submit" name="submit_button" value="Button2">
+	<p></p>
+	<input type="submit" name="submit_button" value="Button3">
+	<p></p>
+	<input type="submit" name="submit_button" value="Button4">
+	<p></p>
+	<input type="submit" name="submit_button" value="Button5">
+	<p></p>
+	<input type="submit" name="submit_button" value="Button6">
+	<p></p>
+	<input type="submit" name="submit_button" value="Button7">
+	<p></p>
+	<input type="submit" name="submit_button" value="Button8">
+	<p></p>
+	
+	<button onclick="myFunction()">Click me.</button>
+	
+	<p id="demo"></p>
+	
+	<p> A function is triggered when the button is clicked. The function outputs some text in a p element with id="demo".</p>
+	
+	<script>
+	function myFunction() {
+		document.getElementById("demo").innerHTML = "Hello World";}
+	</script>
+	
+{% endblock %}
