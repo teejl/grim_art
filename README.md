@@ -1,5 +1,5 @@
 # grim_art
-## By TeeJ and Conner
+### By TeeJ and Conner
 
 Here we shall develop a website for GrimTonberry AKA Luke.
 
