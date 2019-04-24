@@ -1,4 +1,4 @@
-# grim_art
+# Grim Art - Website Development
 ### By TeeJ and Conner
 
 Here we shall develop a website for GrimTonberry AKA Luke.
