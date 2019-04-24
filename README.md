@@ -4,7 +4,7 @@
 Here we shall develop a website for GrimTonberry AKA Luke.
 
 Agenda:
-1. Learn HTML
-2. Learn CSS
-3. Learn Git
+1. Learn Git
+2. Learn HTML (https://www.codecademy.com/learn)
+3. Learn CSS
 4. Develop the Website
